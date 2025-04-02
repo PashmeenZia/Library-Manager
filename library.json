@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Learn Python Quickly",
+    "author": "John Doe",
+    "publication_year": 2019,
+    "genre": "Programming",
+    "read_status": false,
+    "added_data": "2025-03-11 11:36:40"
+  },
+  {
+    "title": "Mastering Python Automation",
+    "author": "Jane Smith",
+    "publication_year": 2011,
+    "genre": "Programming",
+    "read_status": true,
+    "added_data": "2025-03-11 11:45:80"
+  },
+  {
+    "title": "Advanced Python Techniques",
+    "author": "Michael Lee",
+    "publication_year": 2022,
+    "genre": "Programming",
+    "read_status": false,
+    "added_data": "2025-03-11 11:55:20"
+  },
+  {    
+    "title": "Python Best Practices",
+    "author": "Emily Davis",
+    "publication_year": 2020,
+    "genre": "Programming",
+    "read_status": true,
+    "added_data": "2025-03-11 11:58:10"
+  }
+]
